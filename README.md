@@ -1,5 +1,5 @@
 # part-2-cnn-computer-vision
-# ==================== TASK 6: CNN Concept Explanation ====================
+# TASK 6: CNN Concept Explanation 
 
 **CNN Concept Explanation**
 
